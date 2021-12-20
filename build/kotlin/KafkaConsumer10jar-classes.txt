@@ -1,0 +1,1 @@
+/home/henrique/ESTUDOS/KOTLIN/KafkaConsumer/build/classes/kotlin/main/br/com/henriquelacerda/kafkaconsumer/ApplicationConsumer.class
